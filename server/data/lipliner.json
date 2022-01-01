@@ -1,0 +1,1874 @@
+[
+    {
+    "id": 1048,
+    "brand": "colourpop",
+    "name": "Lippie Pencil",
+    "price": "5.0",
+    "price_sign": "$",
+    "currency": "CAD",
+    "image_link": "https://cdn.shopify.com/s/files/1/1338/0845/collections/lippie-pencil_grande.jpg?v=1512588769",
+    "product_link": "https://colourpop.com/collections/lippie-pencil",
+    "website_link": "https://colourpop.com",
+    "description": "Lippie Pencil A long-wearing and high-intensity lip pencil that glides on easily and prevents feathering. Many of our Lippie Stix have a coordinating Lippie Pencil designed to compliment it perfectly, but feel free to mix and match!",
+    "rating": null,
+    "category": "pencil",
+    "product_type": "lip_liner",
+    "tag_list": [
+    "cruelty free",
+    "Vegan"
+    ],
+    "created_at": "2018-07-08T23:45:08.056Z",
+    "updated_at": "2018-07-09T00:53:23.301Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1048.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/048/original/open-uri20180708-4-13okqci?1531093614",
+    "product_colors": [
+    {
+    "hex_value": "#B28378",
+    "colour_name": "BFF Pencil"
+    },
+    {
+    "hex_value": "#A36B5E",
+    "colour_name": "951 Pencil"
+    },
+    {
+    "hex_value": "#966A60",
+    "colour_name": "Beeper Pencil"
+    },
+    {
+    "hex_value": "#8F5954",
+    "colour_name": "Oh Snap Pencil"
+    },
+    {
+    "hex_value": "#975348",
+    "colour_name": "Curvii Pencil"
+    },
+    {
+    "hex_value": "#865B69",
+    "colour_name": "Lumiere Pencil"
+    },
+    {
+    "hex_value": "#8E474D",
+    "colour_name": "Bumble Pencil"
+    },
+    {
+    "hex_value": "#5F2820",
+    "colour_name": "BFF Pencil 3"
+    },
+    {
+    "hex_value": "#C095BC",
+    "colour_name": "Brills Pencil"
+    },
+    {
+    "hex_value": "#743A6A",
+    "colour_name": "Are N Be Pencil"
+    },
+    {
+    "hex_value": "#965564",
+    "colour_name": "Contempo Pencil"
+    },
+    {
+    "hex_value": "#BF2C7E",
+    "colour_name": "Heart On Pencil"
+    },
+    {
+    "hex_value": "#CE435D",
+    "colour_name": "Trixie Pencil"
+    },
+    {
+    "hex_value": "#DA6952",
+    "colour_name": "Chi Chi Pencil"
+    },
+    {
+    "hex_value": "#A33C37",
+    "colour_name": "Clique Pencil"
+    },
+    {
+    "hex_value": "#C23D3C",
+    "colour_name": "Frenchie Pencil"
+    },
+    {
+    "hex_value": "#AF4051",
+    "colour_name": "Bossy Pencil"
+    },
+    {
+    "hex_value": "#914B4C",
+    "colour_name": "Wild Nothing Pencil"
+    },
+    {
+    "hex_value": "#6D414B",
+    "colour_name": "Dopey Pencil"
+    },
+    {
+    "hex_value": "#4D2D28",
+    "colour_name": "Toolips Pencil"
+    },
+    {
+    "hex_value": "#361927",
+    "colour_name": "Mamacita Pencil"
+    },
+    {
+    "hex_value": "#714B41",
+    "colour_name": "Pitch Pencil"
+    },
+    {
+    "hex_value": "#762F50",
+    "colour_name": "LBB Pencil"
+    },
+    {
+    "hex_value": "#8C4A47",
+    "colour_name": "Love Bug Pencil"
+    },
+    {
+    "hex_value": "#702E2D",
+    "colour_name": "Poison Pencil"
+    },
+    {
+    "hex_value": "#93283C",
+    "colour_name": "Bichette Pencil"
+    },
+    {
+    "hex_value": "#653E44",
+    "colour_name": "Dukes Pencil"
+    },
+    {
+    "hex_value": "#5C3357",
+    "colour_name": "Leather Pencil"
+    },
+    {
+    "hex_value": "#242225",
+    "colour_name": "Bull Chic Pencil"
+    },
+    {
+    "hex_value": "#B5716A",
+    "colour_name": "Brink Pencil"
+    },
+    {
+    "hex_value": "#B0516F",
+    "colour_name": "I Heart This Pencil"
+    },
+    {
+    "hex_value": "#542328",
+    "colour_name": "Ellarie Pencil"
+    },
+    {
+    "hex_value": "#DFAC9B",
+    "colour_name": "Toy Pencil"
+    },
+    {
+    "hex_value": "#AB7164",
+    "colour_name": "BFF Pencil 2"
+    }
+    ]
+    },
+    {
+    "id": 1007,
+    "brand": "c'est moi",
+    "name": "Luminary Lip Crayon",
+    "price": "0.0",
+    "price_sign": "$",
+    "currency": "USD",
+    "image_link": "https://www.purpicks.com/wp-content/uploads/2018/04/cest-moi-luminary-lip-crayon.png",
+    "product_link": "https://www.purpicks.com/product/luminary-lip-crayon/",
+    "website_link": "https://purpicks.com/",
+    "description": "These nourishing and creamy lip crayons come in 6 perfectly pigmented shades that go from subtle to statement. This easy-to-use lip crayon delivers velvety application and perfectly pigmented color, plus a nourishing formula with a creamy, consistent texture designed to make your lips appear soft and smooth. Apply sparingly for a subtle look, or generously to make a statement—either way, your lips will feel as beautiful as they look! Made for Young Delicate Skin Types NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol Dermatologist Tested Clinically Tested On Sensitive Skin Hypoallergenic",
+    "rating": null,
+    "category": "pencil",
+    "product_type": "lip_liner",
+    "tag_list": [
+    "purpicks",
+    "EWG Verified",
+    "Hypoallergenic",
+    "No Talc"
+    ],
+    "created_at": "2018-06-30T19:19:29.975Z",
+    "updated_at": "2018-09-02T22:52:06.545Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1007.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/007/original/open-uri20180630-4-1m2hvd7?1530390361",
+    "product_colors": [
+    {
+    "hex_value": "#B89093",
+    "colour_name": "Fresh"
+    },
+    {
+    "hex_value": "#CB7579",
+    "colour_name": "True"
+    },
+    {
+    "hex_value": "#EB5D92",
+    "colour_name": "Fierce"
+    },
+    {
+    "hex_value": "#E74857",
+    "colour_name": "Vivid"
+    },
+    {
+    "hex_value": "#CC5257",
+    "colour_name": "Brave"
+    },
+    {
+    "hex_value": "#65373E",
+    "colour_name": "Courage"
+    }
+    ]
+    },
+    {
+    "id": 893,
+    "brand": "nyx",
+    "name": "#LOTD Lip Of The Day Liquid Lip Liner",
+    "price": "7.0",
+    "price_sign": "$",
+    "currency": "USD",
+    "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw226b9283/ProductImages/2016/Lips/Lip_Of_The_Day_Liquid_Lip_Liner/lipoftheday_main.jpg?sw=390&sh=390&sm=fit",
+    "product_link": "https://www.nyxcosmetics.com/lotd-lip-of-the-day-liquid-lip-liner/NYX_350.html?cgid=lip-liner",
+    "website_link": "https://www.nyxcosmetics.com",
+    "description": "Bring the party to your pout with our new Lip of the Day Liquid Lip Liner! Available in ten gorgeously vivid shades, these versatile lip liners are absolute must-haves for anyone looking to take their lip artistry skills to the next level.",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2017-12-24T02:27:36.382Z",
+    "updated_at": "2017-12-24T02:27:37.542Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/893.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/893/original/open-uri20171224-4-1xaya6j?1514082456",
+    "product_colors": [
+    {
+    "hex_value": "#E1B44E",
+    "colour_name": "Sunlit"
+    },
+    {
+    "hex_value": "#D28F69",
+    "colour_name": "Gem"
+    },
+    {
+    "hex_value": "#AC5F28",
+    "colour_name": "Hex"
+    },
+    {
+    "hex_value": "#8F1C11",
+    "colour_name": "Heatwave"
+    },
+    {
+    "hex_value": "#5D2E94",
+    "colour_name": "Taboo"
+    },
+    {
+    "hex_value": "#7388AD",
+    "colour_name": "Kinetic"
+    },
+    {
+    "hex_value": "#A5A8B0",
+    "colour_name": "Magnetic"
+    },
+    {
+    "hex_value": "#6B8F78",
+    "colour_name": "Enchanted"
+    },
+    {
+    "hex_value": "#B19E5D",
+    "colour_name": "Python"
+    },
+    {
+    "hex_value": "#C38181",
+    "colour_name": "Cherished"
+    }
+    ]
+    },
+    {
+    "id": 892,
+    "brand": "nyx",
+    "name": "Slide On Lip Pencil",
+    "price": "8.0",
+    "price_sign": "$",
+    "currency": "USD",
+    "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw2696bfe3/ProductImages/2017/Lips/Slide_On_Lip_Pencil_2017/slideonlippencil_main.jpg?sw=390&sh=390&sm=fit",
+    "product_link": "https://www.nyxcosmetics.com/slide-on-lip-pencil/NYX_234.html?cgid=lip-liner",
+    "website_link": "https://www.nyxcosmetics.com",
+    "description": "Draw out your pout with a stroke of rich color. Our Slide On Lip Pencil is now available in 14 all-new shades—from bold blue-green to deep nude and pastel lilac. Like the much-loved eyeliner it’s named after, this waterproof lip pencil glides on super-smooth and delivers a highly pigmented Matte finish. Line your lips or fill ’em in for defined and enriched lip color using any of these 28 incredible shades. Our Slide on Lip Pencils can be sharpened with a sharpener that has an opening for a small pencil. Get your NYX Professional Makeup Sharpener",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2017-12-24T02:27:31.408Z",
+    "updated_at": "2017-12-24T02:27:31.788Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/892.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/892/original/open-uri20171224-4-1vxfgx0?1514082451",
+    "product_colors": [
+    {
+    "hex_value": "#F5AFB1",
+    "colour_name": "Timid"
+    },
+    {
+    "hex_value": "#EC687D",
+    "colour_name": "Rosey Sunset"
+    },
+    {
+    "hex_value": "#E9688F",
+    "colour_name": "Sweet Pink"
+    },
+    {
+    "hex_value": "#E05B90",
+    "colour_name": "Disco Rage"
+    },
+    {
+    "hex_value": "#E06291",
+    "colour_name": "Fluorescent"
+    },
+    {
+    "hex_value": "#BF727A",
+    "colour_name": "Cheeky"
+    },
+    {
+    "hex_value": "#BF807B",
+    "colour_name": "Bedrose"
+    },
+    {
+    "hex_value": "#B67772",
+    "colour_name": "Alluring"
+    },
+    {
+    "hex_value": "#BD6D70",
+    "colour_name": "High Standards"
+    },
+    {
+    "hex_value": "#C74454",
+    "colour_name": "Knock Em Red"
+    },
+    {
+    "hex_value": "#C24155",
+    "colour_name": "Red Tape"
+    },
+    {
+    "hex_value": "#8B4543",
+    "colour_name": "Brick House"
+    },
+    {
+    "hex_value": "#714947",
+    "colour_name": "Dark Soul"
+    },
+    {
+    "hex_value": "#F6B1A2",
+    "colour_name": "Pink Canteloupe"
+    },
+    {
+    "hex_value": "#E1787F",
+    "colour_name": "Crushed"
+    },
+    {
+    "hex_value": "#E06263",
+    "colour_name": "Summer Tease"
+    },
+    {
+    "hex_value": "#1F725E",
+    "colour_name": "Revolution"
+    },
+    {
+    "hex_value": "#B0A2D5",
+    "colour_name": "Live In Pastel"
+    },
+    {
+    "hex_value": "#954C91",
+    "colour_name": "Brazen"
+    },
+    {
+    "hex_value": "#6E446C",
+    "colour_name": "Revamp"
+    },
+    {
+    "hex_value": "#674651",
+    "colour_name": "Nebula"
+    },
+    {
+    "hex_value": "#E9A59C",
+    "colour_name": "Staged"
+    },
+    {
+    "hex_value": "#BA857D",
+    "colour_name": "Nude Suede Shoes"
+    },
+    {
+    "hex_value": "#B48979",
+    "colour_name": "Sugar Glass"
+    },
+    {
+    "hex_value": "#AD796C",
+    "colour_name": "Beyond Nude"
+    },
+    {
+    "hex_value": "#AB7D70",
+    "colour_name": "Need Me"
+    },
+    {
+    "hex_value": "#A37568",
+    "colour_name": "Intimidate"
+    },
+    {
+    "hex_value": "#745038",
+    "colour_name": "Urban Café"
+    }
+    ]
+    },
+    {
+    "id": 891,
+    "brand": "nyx",
+    "name": "Retractable Lip Liner",
+    "price": "5.0",
+    "price_sign": "$",
+    "currency": "USD",
+    "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw2524f26b/ProductImages/Lips/Retractable_Lip_Liner/retractablelipliner_main.jpg?sw=390&sh=390&sm=fit",
+    "product_link": "https://www.nyxcosmetics.com/retractable-lip-liner/NYX_051.html?cgid=lip-liner",
+    "website_link": "https://www.nyxcosmetics.com",
+    "description": "Love your lips! Create the perfect pout with our creamy, richly pigmented liner in an easy twist-up pencil. Renowned for its staying power! Available in 19 irresistible shades.",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2017-12-24T02:27:28.905Z",
+    "updated_at": "2017-12-24T02:27:29.477Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/891.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/891/original/open-uri20171224-4-mgfb2y?1514082448",
+    "product_colors": [
+    {
+    "hex_value": "#E17F7C",
+    "colour_name": "Pinky Beige"
+    },
+    {
+    "hex_value": "#D86B7E",
+    "colour_name": "Soft Pink"
+    },
+    {
+    "hex_value": "#E67D84",
+    "colour_name": "Peony"
+    },
+    {
+    "hex_value": "#D45F65",
+    "colour_name": "Pretty In Pink"
+    },
+    {
+    "hex_value": "#C4686B",
+    "colour_name": "Nectar"
+    },
+    {
+    "hex_value": "#BE595F",
+    "colour_name": "Nude Pink"
+    },
+    {
+    "hex_value": "#AC4A4B",
+    "colour_name": "Jewel"
+    },
+    {
+    "hex_value": "#C1386C",
+    "colour_name": "Hot Pink"
+    },
+    {
+    "hex_value": "#77182E",
+    "colour_name": "Plum"
+    },
+    {
+    "hex_value": "#7E101D",
+    "colour_name": "Dark Red"
+    },
+    {
+    "hex_value": "#964436",
+    "colour_name": "Sienna"
+    },
+    {
+    "hex_value": "#A81F27",
+    "colour_name": "Red"
+    },
+    {
+    "hex_value": "#D11E21",
+    "colour_name": "Ruby"
+    },
+    {
+    "hex_value": "#A96D51",
+    "colour_name": "Vanilla Sky"
+    },
+    {
+    "hex_value": "#A16644",
+    "colour_name": "Natural"
+    },
+    {
+    "hex_value": "#A36348",
+    "colour_name": "Nude"
+    },
+    {
+    "hex_value": "#90583D",
+    "colour_name": "Sand Beige"
+    },
+    {
+    "hex_value": "#713E2B",
+    "colour_name": "Cocoa"
+    },
+    {
+    "hex_value": "gray14",
+    "colour_name": "Black Lips"
+    }
+    ]
+    },
+    {
+    "id": 890,
+    "brand": "nyx",
+    "name": "Suede Matte Lip Liner",
+    "price": "4.0",
+    "price_sign": "$",
+    "currency": "USD",
+    "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw7477bc7c/ProductImages/2016/Lips/Suede_Matte_Lip_Liner/suedemattelipliner_main.jpg?sw=390&sh=390&sm=fit",
+    "product_link": "https://www.nyxcosmetics.com/suede-matte-lip-liner/NYX_355.html?cgid=lip-liner",
+    "website_link": "https://www.nyxcosmetics.com",
+    "description": "Buh-bye creamy lip colors! See ya shimmery shades! A velvety, matte lip is an absolute must and we’ve got just the goodie to help you get it done right: Suede Matte Lip Liner. Available in 36 richly pigmented hues, these pencils were created with colors from a few NYX Professional Makeup fan faves in mind--our Liquid Suede Cream Lipstick, Matte Lipstick and Soft Matte Lip Cream to be exact. Every shade goes on super smooth and provides the perfect base for our much-loved matte lippies.",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2017-12-24T02:27:25.440Z",
+    "updated_at": "2017-12-24T02:27:25.858Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/890.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/890/original/open-uri20171224-4-1p3hisz?1514082445",
+    "product_colors": [
+    {
+    "hex_value": "#C66B70",
+    "colour_name": "Tea & Cookies"
+    },
+    {
+    "hex_value": "#A54F52",
+    "colour_name": "Cannes"
+    },
+    {
+    "hex_value": "#A15056",
+    "colour_name": "Whipped Cavier"
+    },
+    {
+    "hex_value": "#F3665C",
+    "colour_name": "Life's A Beach"
+    },
+    {
+    "hex_value": "#BD5065",
+    "colour_name": "Sao Paulo"
+    },
+    {
+    "hex_value": "#C2586E",
+    "colour_name": "Milan"
+    },
+    {
+    "hex_value": "#DA4076",
+    "colour_name": "Pink Lust"
+    },
+    {
+    "hex_value": "#8F2762",
+    "colour_name": "Aria"
+    },
+    {
+    "hex_value": "#761D39",
+    "colour_name": "Prune"
+    },
+    {
+    "hex_value": "#8D1E2F",
+    "colour_name": "Cherry Skies"
+    },
+    {
+    "hex_value": "#6D132C",
+    "colour_name": "Copenhagen"
+    },
+    {
+    "hex_value": "#842D24",
+    "colour_name": "Alabama"
+    },
+    {
+    "hex_value": "#AB1F12",
+    "colour_name": "Kitten Heels"
+    },
+    {
+    "hex_value": "#EE5F37",
+    "colour_name": "Orange County"
+    },
+    {
+    "hex_value": "#FF6C4A",
+    "colour_name": "Foiled Again"
+    },
+    {
+    "hex_value": "#0098CD",
+    "colour_name": "Little Denim Dress"
+    },
+    {
+    "hex_value": "#00347F",
+    "colour_name": "Jet Set"
+    },
+    {
+    "hex_value": "#3A4758",
+    "colour_name": "Foul Mouth"
+    },
+    {
+    "hex_value": "#D36997",
+    "colour_name": "Respect The Pink"
+    },
+    {
+    "hex_value": "#8B5AB5",
+    "colour_name": "Sway"
+    },
+    {
+    "hex_value": "#8E2D8C",
+    "colour_name": "Run The World"
+    },
+    {
+    "hex_value": "#553394",
+    "colour_name": "Amethyst"
+    },
+    {
+    "hex_value": "#6B1B4E",
+    "colour_name": "Subversive Socialite"
+    },
+    {
+    "hex_value": "#392A4B",
+    "colour_name": "Oh, Put It On"
+    },
+    {
+    "hex_value": "#B5654A",
+    "colour_name": "Stockholm"
+    },
+    {
+    "hex_value": "#BC7B53",
+    "colour_name": "London"
+    },
+    {
+    "hex_value": "#A56B57",
+    "colour_name": "Sandstorm"
+    },
+    {
+    "hex_value": "#A05D4D",
+    "colour_name": "Soft-Spoken"
+    },
+    {
+    "hex_value": "#895150",
+    "colour_name": "Los Angeles"
+    },
+    {
+    "hex_value": "#822D32",
+    "colour_name": "Vintage"
+    },
+    {
+    "hex_value": "#6D4A2E",
+    "colour_name": "Downtown Beauty"
+    },
+    {
+    "hex_value": "#6E3C33",
+    "colour_name": "Maison"
+    },
+    {
+    "hex_value": "#5A342B",
+    "colour_name": "Club Hopper"
+    },
+    {
+    "hex_value": "#62473C",
+    "colour_name": "Brooklyn Thorn"
+    },
+    {
+    "hex_value": "#3C3C3C",
+    "colour_name": "Stone Fox"
+    },
+    {
+    "hex_value": "#2E2E2E",
+    "colour_name": "Alien"
+    }
+    ]
+    },
+    {
+    "id": 889,
+    "brand": "nyx",
+    "name": "Slim Lip Pencil",
+    "price": "4.0",
+    "price_sign": "$",
+    "currency": "USD",
+    "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwbbca9dd2/ProductImages/Lips/Slim_Lip_Pencil/Slim_Lip_Pencil/slimlippencil_main.jpg?sw=390&sh=390&sm=fit",
+    "product_link": "https://www.nyxcosmetics.com/slim-lip-pencil/NYX_052.html?cgid=lip-liner",
+    "website_link": "https://www.nyxcosmetics.com",
+    "description": "Slim, trim, but never prim our lip pencils come in a variety of dashing shades - from auburn to orange and traffic-stopping red. The buttery long-wearing lip liner formula goes on easily and resists bleeding.",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2017-12-24T02:27:20.536Z",
+    "updated_at": "2017-12-24T02:27:20.940Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/889.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/889/original/open-uri20171224-4-1jtkojq?1514082440",
+    "product_colors": [
+    {
+    "hex_value": "#E89FB0",
+    "colour_name": "Flower"
+    },
+    {
+    "hex_value": "#D26987",
+    "colour_name": "Dolly Pink"
+    },
+    {
+    "hex_value": "#D87079",
+    "colour_name": "Rose"
+    },
+    {
+    "hex_value": "#F04B76",
+    "colour_name": "Hot Pink"
+    },
+    {
+    "hex_value": "#CB5E5B",
+    "colour_name": "Citrine"
+    },
+    {
+    "hex_value": "#D87683",
+    "colour_name": "Sand Pink"
+    },
+    {
+    "hex_value": "#CF476B",
+    "colour_name": "Pinky"
+    },
+    {
+    "hex_value": "#CA315D",
+    "colour_name": "Edge Pink"
+    },
+    {
+    "hex_value": "#C03E6A",
+    "colour_name": "Fuchsia"
+    },
+    {
+    "hex_value": "#A9305B",
+    "colour_name": "Bloom"
+    },
+    {
+    "hex_value": "#9F366E",
+    "colour_name": "Purple Rain"
+    },
+    {
+    "hex_value": "#CC7C7D",
+    "colour_name": "Pale Pink"
+    },
+    {
+    "hex_value": "#8E4745",
+    "colour_name": "Mauve"
+    },
+    {
+    "hex_value": "#A3432D",
+    "colour_name": "Ever"
+    },
+    {
+    "hex_value": "#8F1C29",
+    "colour_name": "Plum"
+    },
+    {
+    "hex_value": "#790C2B",
+    "colour_name": "Deep Purple"
+    },
+    {
+    "hex_value": "#792139",
+    "colour_name": "Prune"
+    },
+    {
+    "hex_value": "#781833",
+    "colour_name": "Currant"
+    },
+    {
+    "hex_value": "#873B3B",
+    "colour_name": "Mahogany"
+    },
+    {
+    "hex_value": "#77393A",
+    "colour_name": "Never"
+    },
+    {
+    "hex_value": "#40281E",
+    "colour_name": "Y2K"
+    },
+    {
+    "hex_value": "#922F10",
+    "colour_name": "Deep Red"
+    },
+    {
+    "hex_value": "#932027",
+    "colour_name": "Cabaret"
+    },
+    {
+    "hex_value": "#8B262A",
+    "colour_name": "Auburn"
+    },
+    {
+    "hex_value": "#902630",
+    "colour_name": "Burgundy"
+    },
+    {
+    "hex_value": "#C13C4D",
+    "colour_name": "Plush Red"
+    },
+    {
+    "hex_value": "#D11C23",
+    "colour_name": "Hot Red"
+    },
+    {
+    "hex_value": "#C9532F",
+    "colour_name": "Pumpkin"
+    },
+    {
+    "hex_value": "#D6551E",
+    "colour_name": "Orange"
+    },
+    {
+    "hex_value": "#DC744D",
+    "colour_name": "Tangerine"
+    },
+    {
+    "hex_value": "#BC6F55",
+    "colour_name": "Beige"
+    },
+    {
+    "hex_value": "#D07876",
+    "colour_name": "Nude Pink"
+    },
+    {
+    "hex_value": "#C47266",
+    "colour_name": "Peekaboo Neutral"
+    },
+    {
+    "hex_value": "#C57B5E",
+    "colour_name": "Natural"
+    },
+    {
+    "hex_value": "#C17456",
+    "colour_name": "Soft Brown"
+    },
+    {
+    "hex_value": "#96463F",
+    "colour_name": "Coffee"
+    },
+    {
+    "hex_value": "#99624E",
+    "colour_name": "Nude Beige"
+    },
+    {
+    "hex_value": "#8C5340",
+    "colour_name": "Nude Truffle"
+    },
+    {
+    "hex_value": "#874934",
+    "colour_name": "Nutmeg"
+    },
+    {
+    "hex_value": "#745237",
+    "colour_name": "Brown Cafe"
+    },
+    {
+    "hex_value": "#7F4925",
+    "colour_name": "Brown"
+    },
+    {
+    "hex_value": "#85532E",
+    "colour_name": "Toast"
+    },
+    {
+    "hex_value": "#67452C",
+    "colour_name": "Cappuccino"
+    },
+    {
+    "hex_value": "#7B412B",
+    "colour_name": "Cocoa"
+    },
+    {
+    "hex_value": "#5E3F23",
+    "colour_name": "Chestnut"
+    },
+    {
+    "hex_value": "#663320",
+    "colour_name": "Hot Cocoa"
+    },
+    {
+    "hex_value": "#553327",
+    "colour_name": "Espresso"
+    },
+    {
+    "hex_value": "#523C25",
+    "colour_name": "Dark Brown"
+    },
+    {
+    "hex_value": "#331C16",
+    "colour_name": "Black Brown"
+    },
+    {
+    "hex_value": "#1C110D",
+    "colour_name": "Black Berry"
+    }
+    ]
+    },
+    {
+    "id": 874,
+    "brand": "nyx",
+    "name": "Jumbo Lip Pencil",
+    "price": "4.5",
+    "price_sign": "$",
+    "currency": "USD",
+    "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw20d954dc/ProductImages/Lips/Jumbo_Lip_Pencil/jumboeyepencil_main.jpg?sw=390&sh=390&sm=fit",
+    "product_link": "https://www.nyxcosmetics.com/jumbo-lip-pencil/NYX_003.html?cgid=lip-liner",
+    "website_link": "https://www.nyxcosmetics.com",
+    "description": "",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2017-12-24T02:27:03.310Z",
+    "updated_at": "2017-12-24T02:27:34.862Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/874.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/874/original/open-uri20171224-4-14udrjs?1514082454",
+    "product_colors": [
+    {
+    "hex_value": "#F6B4C2",
+    "colour_name": "Iris"
+    },
+    {
+    "hex_value": "#F3B8A8",
+    "colour_name": "Pink Nude"
+    },
+    {
+    "hex_value": "#FFAB87",
+    "colour_name": "Irish Coffee"
+    },
+    {
+    "hex_value": "#FFA68B",
+    "colour_name": "Pink Brown"
+    },
+    {
+    "hex_value": "#E47F85",
+    "colour_name": "Honey Nectar"
+    },
+    {
+    "hex_value": "#F75C7E",
+    "colour_name": "Chaos"
+    },
+    {
+    "hex_value": "#CD737C",
+    "colour_name": "Pecan"
+    },
+    {
+    "hex_value": "#EF5E97",
+    "colour_name": "Hera"
+    },
+    {
+    "hex_value": "#8E1B38",
+    "colour_name": "Burgundy"
+    },
+    {
+    "hex_value": "#91232C",
+    "colour_name": "Maroon"
+    },
+    {
+    "hex_value": "#AA1532",
+    "colour_name": "Deep Red"
+    },
+    {
+    "hex_value": "#D41C36",
+    "colour_name": "Plush Red"
+    },
+    {
+    "hex_value": "#C02922",
+    "colour_name": "Hot Red"
+    },
+    {
+    "hex_value": "#D28A72",
+    "colour_name": "Iced Coffee"
+    },
+    {
+    "hex_value": "#E9B5A7",
+    "colour_name": "Rose Brown"
+    }
+    ]
+    },
+    {
+    "id": 769,
+    "brand": "clinique",
+    "name": "Quickliner&trade; For Lips",
+    "price": "17.5",
+    "price_sign": "$",
+    "currency": "USD",
+    "image_link": "https://www.clinique.com/media/export/cms/products/181x209/clq_61EM_181x209.png",
+    "product_link": "https://www.clinique.com/product/1604/4771/makeup/lip-liner/quickliner-for-lips",
+    "website_link": "https://www.clinique.com",
+    "description": "All-day lip liner. Use to line and define lips or smooth all over lips before lipstick application for extended wear. Non-drying formula helps keep lipstick in place. Prevents lipstick from feathering and bleeding. No sharpening required.",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2017-12-23T16:36:58.545Z",
+    "updated_at": "2017-12-23T23:38:52.404Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/769.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/769/original/data?1514072332",
+    "product_colors": [
+    {
+    "hex_value": "#7e4542",
+    "colour_name": "Lipblush"
+    },
+    {
+    "hex_value": "#9b4f46",
+    "colour_name": "Neutrally"
+    },
+    {
+    "hex_value": "#98483a",
+    "colour_name": "Honeystick"
+    },
+    {
+    "hex_value": "#934252",
+    "colour_name": "Bamboo"
+    },
+    {
+    "hex_value": "#7f343b",
+    "colour_name": "Cocoa Rose"
+    },
+    {
+    "hex_value": "#b7706b",
+    "colour_name": "Baby Buff"
+    },
+    {
+    "hex_value": "#a9405c",
+    "colour_name": "Crushed Berry"
+    },
+    {
+    "hex_value": "#c76378",
+    "colour_name": "Soft Rose"
+    },
+    {
+    "hex_value": "#831441",
+    "colour_name": "Velvet Rose"
+    },
+    {
+    "hex_value": "#ca5245",
+    "colour_name": "Cocoa Peach"
+    },
+    {
+    "hex_value": "#7b0705",
+    "colour_name": "Tawny Tulip"
+    },
+    {
+    "hex_value": "#b05087",
+    "colour_name": "Sky Violet"
+    },
+    {
+    "hex_value": "#562a41",
+    "colour_name": "Plummy"
+    },
+    {
+    "hex_value": "#490c05",
+    "colour_name": "Chocolate Chip"
+    },
+    {
+    "hex_value": "#733A40",
+    "colour_name": "Bon Bon"
+    },
+    {
+    "hex_value": "#5d0810",
+    "colour_name": "Chili"
+    }
+    ]
+    },
+    {
+    "id": 768,
+    "brand": "clinique",
+    "name": " Quickliner&trade; For Lips Intense",
+    "price": "17.5",
+    "price_sign": "$",
+    "currency": "USD",
+    "image_link": "https://www.clinique.com/media/export/cms/products/181x209/clq_ZGGY01_181x209.png",
+    "product_link": "https://www.clinique.com/product/1604/37967/makeup/lip-liner/quickliner-for-lips-intense",
+    "website_link": "https://www.clinique.com",
+    "description": "Silky formula glides on and wears all day. Use it to define the lip line or fill in lips pre-lipstick application. Non-drying formula prevents lipstick from feathering and bleeding. No sharpening required.",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2017-12-23T16:36:58.116Z",
+    "updated_at": "2017-12-23T23:38:52.062Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/768.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/768/original/data?1514072331",
+    "product_colors": [
+    {
+    "hex_value": "#e76393",
+    "colour_name": "Intense Hibiscus"
+    },
+    {
+    "hex_value": "#c12b73",
+    "colour_name": "Intense Punch"
+    },
+    {
+    "hex_value": "#b51869",
+    "colour_name": "Intense Jam"
+    },
+    {
+    "hex_value": "#941E58",
+    "colour_name": "Intense Cosmo"
+    },
+    {
+    "hex_value": "#99122b",
+    "colour_name": "Intense Cranberry"
+    },
+    {
+    "hex_value": "#ca1238",
+    "colour_name": "Intense Passion"
+    },
+    {
+    "hex_value": "#ad5e51",
+    "colour_name": "Intense Blush"
+    },
+    {
+    "hex_value": "#bb4f40",
+    "colour_name": "Intense Cayenne"
+    },
+    {
+    "hex_value": "#b36d5c",
+    "colour_name": "Intense Sassafras"
+    },
+    {
+    "hex_value": "#924737",
+    "colour_name": "Intense Cafe"
+    },
+    {
+    "hex_value": "#4f1115",
+    "colour_name": "Intense Licorice"
+    },
+    {
+    "hex_value": "#4f1919",
+    "colour_name": "Intense Cola"
+    }
+    ]
+    },
+    {
+    "id": 409,
+    "brand": "nyx",
+    "name": "NYX Ombre Lip Duo",
+    "price": "15.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/58650edc46ff5ed6705f5dfdb0776b5d_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/nyx-ombre-lip-duo_118288.html?cat=477",
+    "website_link": "https://well.ca",
+    "description": "Dress your lips in two-toned style with the NYX Ombre Lip Duo.  The 2-in-1 lip colours are inspired by the Ombre trend and each lip duo features two coordinating shades of lip liner and satiny matte lipstick to create the perfect Ombre colour.Featured Colours:True red lipstick with black lip liner",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:34:05.587Z",
+    "updated_at": "2017-12-23T21:08:39.954Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/409.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/409/original/data?1514063319",
+    "product_colors": []
+    },
+    {
+    "id": 408,
+    "brand": "marcelle",
+    "name": "Marcelle Forever Sharp Waterproof Lip Liner",
+    "price": "11.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5ede5c35db258a2416472fe8f93c2d75_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/marcelle-forever-sharp-waterproof_120903.html",
+    "website_link": "https://well.ca",
+    "description": "Say goodbye to sharpeners forever with the Marcelle Forever Sharp Waterproof Lip Liner.The\n Forever Sharp Waterproof Lip Liner has a velvety-smooth tip that softly\n lines and corrects slight imperfections to create a perfect pout. The \nrich, matte colour blends easily to provide a natural finish.Hypoallergenic and perfume-free.",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [
+    "Canadian"
+    ],
+    "created_at": "2016-10-01T18:33:55.084Z",
+    "updated_at": "2017-12-23T21:08:39.676Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/408.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/408/original/data?1514063319",
+    "product_colors": [
+    {
+    "hex_value": "#C73932",
+    "colour_name": "Rouge "
+    },
+    {
+    "hex_value": "#F07E84",
+    "colour_name": "Coral Pink "
+    },
+    {
+    "hex_value": "#CC5A7C",
+    "colour_name": "French Rose "
+    },
+    {
+    "hex_value": "#DF6973",
+    "colour_name": "Fuchsia "
+    },
+    {
+    "hex_value": "#D4817C",
+    "colour_name": "Nude Pink "
+    },
+    {
+    "hex_value": "#CC5B6B",
+    "colour_name": "Pink Mademoiselle "
+    }
+    ]
+    },
+    {
+    "id": 407,
+    "brand": "nyx",
+    "name": "NYX Ombre Lip Duo ",
+    "price": "15.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a4e135cd10297f09958503e830d58124_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/nyx-ombre-lip-duo_118291.html?cat=477",
+    "website_link": "https://well.ca",
+    "description": "Dress your lips in two-toned style with the NYX Ombre Lip Duo.  The 2-in-1 lip colours are inspired by the Ombre trend and each lip duo features two coordinating shades of lip liner and satiny matte lipstick to create the perfect Ombre colour.Featured Colours:Pink Nude lipstick with Bright Pink lip liner",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:49.776Z",
+    "updated_at": "2017-12-23T21:08:39.860Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/407.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/407/original/data?1514063319",
+    "product_colors": []
+    },
+    {
+    "id": 406,
+    "brand": "covergirl",
+    "name": "CoverGirl Lip Perfection Lipliner ",
+    "price": "9.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/9b00f1bed71b9d46399663a8ef364a9a_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/covergirl-lip-perfection-lipliner_74475.html",
+    "website_link": "https://well.ca",
+    "description": "High conditioning lip liner. Created to work perfectly with Lip \nPerfection Lipstick, CoverGirl's lip liner formula contains over 60% skin \nconditioners, so you can line and define with conditioning colour.Features: Shades pair perfectly with Lip Perfection LipstickContains Vitamin EPencil requires sharpener",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:48.833Z",
+    "updated_at": "2017-12-23T21:08:39.578Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/406.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/406/original/data?1514063319",
+    "product_colors": []
+    },
+    {
+    "id": 405,
+    "brand": "marcelle",
+    "name": "Marcelle Waterproof Lip Definition Lip Liner",
+    "price": "10.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/2daab464be400117104710b2d0a93246_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/marcelle-waterproof-lip-definition_100259.html",
+    "website_link": "https://well.ca",
+    "description": "\n        Marcelle Waterproof Lip Definition Lip Liner offers you waterproof and perfect line definition in a single lip liner.\nIts velvety smooth tip softly lines and corrects slight imperfections\n to create a perfect pout. Easy to blend for a more natural look. Its \nlong-lasting formula was designed to resist water, humidity and heat. \nThe rich, matte colour provides a most natural finish.\n\nHypo-allergenic and perfume free.Shade Range:     ",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [
+    "Canadian",
+    "Gluten Free"
+    ],
+    "created_at": "2016-10-01T18:33:47.733Z",
+    "updated_at": "2017-12-23T21:08:39.474Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/405.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/405/original/data?1514063319",
+    "product_colors": [
+    {
+    "hex_value": "#b8676e",
+    "colour_name": "Jewel "
+    },
+    {
+    "hex_value": "#a6636a",
+    "colour_name": "Nude "
+    },
+    {
+    "hex_value": "#c96e73",
+    "colour_name": "Pebble "
+    },
+    {
+    "hex_value": "#c16574",
+    "colour_name": "Perfect Rose "
+    },
+    {
+    "hex_value": "#d4575f",
+    "colour_name": "Sienna "
+    },
+    {
+    "hex_value": "#a25b59",
+    "colour_name": "Spice "
+    }
+    ]
+    },
+    {
+    "id": 404,
+    "brand": "cargo cosmetics",
+    "name": "Cargo Cosmetics Reverse Lip Liner",
+    "price": "19.0",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/41643c6b163f42085540373b8858196b_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/cargo-cosmetics-reverse-lip-liner_87685.html",
+    "website_link": "https://well.ca",
+    "description": "A Cargo Innovation and the only liner for lip gloss!Use this nifty tool to line your lips from the outside in. This natural \ncoloured pencil adds definition and fullness to the lip line as it locks\n colour in place.  It is applied around the outer edges of the lip line \nand blended up and out to create a highlight around the mouth for the \nlook of fuller lips.   \n\n\nFeatures:\nUsing the Reverse Lip Liner around the mouth will clean up the lip \nline, remove redness from around the mouth and prevent the messy \nfeathering of lip colorThe smooth, wax based formula will also create a barrier around the \nmouth to prevent lipstick from bleeding and hold lip color on longer – \nlocks color in placeShade Range: How to Use: Using soft feathery application strokes, apply the Reverse Lip Liner to the otter edges of the lip lineBlend upwards and outwards to soften the look of the line and give a highlight and lift to the mouthIngredients: C10-18 Triglycerides, Talc, Hydrogenated Vegetable Oil, Caprylic/Capric \nTriglyceride, Rhus Succedanea Fruit Wax, Tocopherol, Ascorbyl Palmitat",
+    "rating": 5,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:47.223Z",
+    "updated_at": "2017-12-23T21:08:39.361Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/404.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/404/original/data?1514063319",
+    "product_colors": []
+    },
+    {
+    "id": 403,
+    "brand": "marcelle",
+    "name": "Marcelle 2 in 1 Retractable Plumping Lip Liner ",
+    "price": "10.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/12b80abdb096e4bd949309febf299e66_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/marcelle-2-in-1-retractable-plumping_100256.html",
+    "website_link": "https://well.ca",
+    "description": "\n        With Marcelle 2 in 1 Retractable Plumping Lip Liner, the lips have it!\nIt's the only lip liner you'll ever need! Its creamy formula and \ngel-like texture soften the contours of your lips and, thanks to the \nMaxi-Lip complex, replenish volume to create lovely, luscious lips! With\n ingredients like jojoba oil and vitamin E it also helps reduce the \neffects of fine lines.\nWhen you're in a hurry, you'll simply love its retractable mechanism,\n lip brush and built-in sharpener, ever so practical! \nHypo-allergenic and tested under dermatological control. Contains no talc, gluten or parabens.Shade Range:     ",
+    "rating": 3,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [
+    "Canadian",
+    "Gluten Free"
+    ],
+    "created_at": "2016-10-01T18:33:46.081Z",
+    "updated_at": "2017-12-23T21:08:39.247Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/403.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/403/original/data?1514063319",
+    "product_colors": [
+    {
+    "hex_value": "#a25d60",
+    "colour_name": "Cinnamon "
+    },
+    {
+    "hex_value": "#863e4c",
+    "colour_name": "Cool Berry "
+    },
+    {
+    "hex_value": "#cc7e68",
+    "colour_name": "Natural "
+    },
+    {
+    "hex_value": "#845946",
+    "colour_name": "Nude Attitude "
+    },
+    {
+    "hex_value": "#a2615b",
+    "colour_name": "Perfect Nude "
+    },
+    {
+    "hex_value": "#cb7671",
+    "colour_name": "Rose Velours "
+    }
+    ]
+    },
+    {
+    "id": 402,
+    "brand": "nyx",
+    "name": "NYX Lip Primer",
+    "price": "9.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6762de575de61e3987070e2cde8009b7_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/nyx-lip-primer_105941.html",
+    "website_link": "https://well.ca",
+    "description": "Use NYX Lip Primer to create the perfect canvas for lip colour with this texture and color enhancing primer. Ensures that lip product lasts and does not go outside the lines. Features:Creates a smooth, uniform canvasPreps and primes lips for smooth and long wearKeeps lip color from fading or featheringBoth color correcting and texture adjusting formula makes lip color look its bestHow to Use: Apply all over lips prior to lip pencil, lipstick and gloss.",
+    "rating": 5,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:44.789Z",
+    "updated_at": "2017-12-23T21:08:38.630Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/402.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/402/original/open-uri20171223-4-1410iph?1514063318",
+    "product_colors": [
+    {
+    "hex_value": "#C08D72",
+    "colour_name": "Deep Nude (LPR02) Sheer Deep Nude "
+    },
+    {
+    "hex_value": "#EBBAA2",
+    "colour_name": "Nude (LPR01) Sheer Nude "
+    }
+    ]
+    },
+    {
+    "id": 401,
+    "brand": null,
+    "name": "Bonne Bell Lip Liner",
+    "price": "4.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4d5dae99dd3884292e941f95392201b9_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/bonne-bell-lip-liner_101856.html",
+    "website_link": "https://well.ca",
+    "description": "Create the perfect lip look Bonne Bell Lip Liners and add definition to your lips.The twist up tip glides on smooth and no sharpener is required. They're so easy to use!",
+    "rating": 4.5,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:42.894Z",
+    "updated_at": "2017-12-23T21:08:37.933Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/401.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/401/original/data?1514063317",
+    "product_colors": [
+    {
+    "hex_value": "#95374f",
+    "colour_name": "Bliss Berry "
+    },
+    {
+    "hex_value": "#c04941",
+    "colour_name": "Cruise Coffee "
+    },
+    {
+    "hex_value": "#7a1533",
+    "colour_name": "Getaway Berry "
+    },
+    {
+    "hex_value": "#f79e83",
+    "colour_name": "Hollywood Beige "
+    }
+    ]
+    },
+    {
+    "id": 400,
+    "brand": "l'oreal",
+    "name": "L'Oreal Paris Colour Riche Lip Liner",
+    "price": "11.29",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0d3cb34004a3290519b914ceaa0d67c8_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/loreal-paris-colour-riche-lip-liner_50854.html",
+    "website_link": "https://well.ca",
+    "description": "Colour Riche Creamy Anti-Feathering Lip Liners create definition and coordinate perfectly with Colour Riche Lipcolour.  Colour Riche Lip Liner is formulated with ultra-hydrating Omega 3 and protective Vitamin E to keep lips moisturized, soft and supple.  ",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:41.322Z",
+    "updated_at": "2017-12-23T21:08:37.317Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/400.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/400/original/data?1514063317",
+    "product_colors": [
+    {
+    "hex_value": "#B7656D",
+    "colour_name": "All About Pink "
+    },
+    {
+    "hex_value": "#6D071D",
+    "colour_name": "Always Red "
+    },
+    {
+    "hex_value": "#A05F51",
+    "colour_name": "Au Naturale "
+    },
+    {
+    "hex_value": "#AE7374",
+    "colour_name": "Beyond Pink "
+    },
+    {
+    "hex_value": "#891635",
+    "colour_name": "Lasting Plum "
+    },
+    {
+    "hex_value": "#7B4C43",
+    "colour_name": "Nudes For Life "
+    },
+    {
+    "hex_value": "#AE7269",
+    "colour_name": "Timeless Coral "
+    },
+    {
+    "hex_value": "#7C183E",
+    "colour_name": "Truly Burgundy "
+    }
+    ]
+    },
+    {
+    "id": 399,
+    "brand": "annabelle",
+    "name": "Annabelle Stay Sharp Waterproof Lipliner",
+    "price": "9.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/bc487b5ce253ed22f045302a4f0b051c_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/annabelle-stay-sharp-waterproof_97733.html",
+    "website_link": "https://well.ca",
+    "description": "\n                        Stop looking, you have just found the sharpest tool in the shed!\nAnnabelle introduces the very first to mass market \nself-sharpening lipliners with the Stay Sharp Waterproof Lipliner. \nAnnabelle’s truly innovative concept will keep beautistas on point and \nsharpeners away.The Stay Sharp secret is in the cap! The Annabelle Stay Sharp twist-on \ncap includes a sharpener. Every time the cap is twisted back on the \npencil, the blades sharpen the tip to perfection and neatly keep the \nshavings. No fuss, no mess!Shade Range: Key Features: Shelf-sharpening pencilNo mess: lead shavings are kept inside the capFine tip for extra-precise applicationExtremely soft lead for a smooth, gliding applicationWaterproof formulaIntense pigmentation for best colour pay off and coverage\n\n                    ",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:40.139Z",
+    "updated_at": "2017-12-23T21:08:37.194Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/399.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/399/original/data?1514063317",
+    "product_colors": [
+    {
+    "hex_value": "#804e37",
+    "colour_name": "Nude "
+    },
+    {
+    "hex_value": "#854e39",
+    "colour_name": "Java "
+    },
+    {
+    "hex_value": "#9c1114",
+    "colour_name": "Glam Red "
+    },
+    {
+    "hex_value": "#862546",
+    "colour_name": "Berry "
+    },
+    {
+    "hex_value": "#bb0c4d",
+    "colour_name": "Strike A Rose "
+    },
+    {
+    "hex_value": "#953447",
+    "colour_name": "Vintage "
+    }
+    ]
+    },
+    {
+    "id": 398,
+    "brand": "maybelline",
+    "name": "Maybelline Color Sensational Lipliner",
+    "price": "8.29",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6607c1b7eb717dfbd3c228b61e4c5148_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-color-sensational_14541.html",
+    "website_link": "https://well.ca",
+    "description": "Keep your Maybelline lip color beautiful with matching lip liners that won't smudge, smear or bleed for smooth, defined lips. For best results: Line your lips starting in the center of your upper lip. Work from the \ncenter to outer edges of your lips using small strokes, following the \ncontour of your mouth. Follow the same technique for your bottom lip. To\n extend the wear of your favorite lip color or lip gloss, first fill in \nyour lips completely with lip liner. ",
+    "rating": 3.5,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:39.513Z",
+    "updated_at": "2017-12-23T21:08:35.034Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/398.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/398/original/open-uri20171223-4-11xbwij?1514063314",
+    "product_colors": [
+    {
+    "hex_value": "#A15638",
+    "colour_name": "Nude "
+    },
+    {
+    "hex_value": "#7B4344",
+    "colour_name": "Plum "
+    },
+    {
+    "hex_value": "#854337",
+    "colour_name": "Raisin "
+    },
+    {
+    "hex_value": "#B3705A",
+    "colour_name": "Toast "
+    }
+    ]
+    },
+    {
+    "id": 397,
+    "brand": "l'oreal",
+    "name": "L'Oreal Paris Infallible Never Fail Lip Liner",
+    "price": "11.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0b1191651b7aef22b11e96f8c7c548d4_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/loreal-paris-infallible-never-fail_51407.html",
+    "website_link": "https://well.ca",
+    "description": "L'Oreal Paris Infallible Never Fail Lip Liner is the perfect long-lasting lip liner.No touch-ups. No feathering. No fading! Just a rich and creamy formula that goes on smooth and even, leaving your lips soft and comfortable for hours. ",
+    "rating": 4.2,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:38.828Z",
+    "updated_at": "2017-12-23T21:08:34.886Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/397.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/397/original/open-uri20171223-4-4rl281?1514063314",
+    "product_colors": [
+    {
+    "hex_value": "#6d3735",
+    "colour_name": "Brown "
+    },
+    {
+    "hex_value": "#803339",
+    "colour_name": "Plum "
+    },
+    {
+    "hex_value": "#862c3b",
+    "colour_name": "Red Wine "
+    },
+    {
+    "hex_value": "#884f3f",
+    "colour_name": "Nude "
+    },
+    {
+    "hex_value": "#945a62",
+    "colour_name": "Rose "
+    },
+    {
+    "hex_value": "#ae4a52",
+    "colour_name": "Mauve "
+    },
+    {
+    "hex_value": "#ce6e7e",
+    "colour_name": "Pink "
+    }
+    ]
+    },
+    {
+    "id": 396,
+    "brand": "nyx",
+    "name": "NYX Slim Lip Pencil ",
+    "price": "4.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/aa363598f8a9d629d3ade5c140e373d0_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/nyx-slim-lip-pencil_106558.html",
+    "website_link": "https://well.ca",
+    "description": "Slim trim but never prim NYX Slim Lip Pencils come in a variety of dashing shades to suit your look.Features:Buttery long-wearing lip liner formulaGoes on easily and resists bleeding High pigmentation for bold wear and great colour payoffIngredients: Sorbitan Isostearate, Isocetyl Stearate,Phenyl Trimethicone, Polyethylene, Euphorbia Cerifera (Candelilla) Wax,Butyrospermum Parkii (Shea Butter) Unsaponifiables, Beeswax, SimmondsiaChinensis (Jojoba) seed oil, Caprylic/Capri Triglyceride, Nylon-12,Octyldodecanol, Polyglyceryl-2 Diisostearate, Silica, CoperniciaCerifera (Carnauba) Wax, Hydrogenated, Coconut Oil, Tocopherol,VP/Hexadecene Copolymer, Stearalkonium Hectorite, StearylGlycyrrhetinate, Propylparaben, Prolylene Carbonate. ",
+    "rating": 5,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:37.171Z",
+    "updated_at": "2017-12-23T21:08:32.899Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/396.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/396/original/open-uri20171223-4-pmcfhy?1514063312",
+    "product_colors": [
+    {
+    "hex_value": "#931659",
+    "colour_name": "Bloom "
+    },
+    {
+    "hex_value": "#762528",
+    "colour_name": "Cabaret "
+    },
+    {
+    "hex_value": "#6E3246",
+    "colour_name": "Currant "
+    },
+    {
+    "hex_value": "#E46EBE",
+    "colour_name": "Dolly Pink  "
+    },
+    {
+    "hex_value": "#B32464",
+    "colour_name": "Fuchsia  "
+    },
+    {
+    "hex_value": "#955C51",
+    "colour_name": "Natural "
+    },
+    {
+    "hex_value": "#8D644B",
+    "colour_name": "Nude Beige  "
+    },
+    {
+    "hex_value": "#BA6E68",
+    "colour_name": "Nude Pink  "
+    },
+    {
+    "hex_value": "#BB878D",
+    "colour_name": "Pale Pink  "
+    },
+    {
+    "hex_value": "#A85A49",
+    "colour_name": "Peekaboo Netural "
+    },
+    {
+    "hex_value": "#B12652",
+    "colour_name": "Pinky  "
+    },
+    {
+    "hex_value": "#6B2635",
+    "colour_name": "Plum "
+    },
+    {
+    "hex_value": "#742C49",
+    "colour_name": "Prune "
+    },
+    {
+    "hex_value": "#D35A63",
+    "colour_name": "Rose  "
+    }
+    ]
+    },
+    {
+    "id": 395,
+    "brand": "e.l.f.",
+    "name": "e.l.f. Studio Lip Primer & Plumper",
+    "price": "4.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/2220d3e4e86c537c59ea5f3cea99e2cc_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/elf-studio-lip-primer-plumper_93439.html",
+    "website_link": "https://well.ca",
+    "description": "Achieve longer lasting lip color and sexy plumped lips with e.l.f. Studio Lip Primer & Plumper.  The Primer \ncreates a base for lip color for no budge, no smudge pigment that lasts \nall day.  The cinnamon scented Plumper enhances your lips with a subtle \nplumping tingle effect for fuller, larger looking lips.How to Use: \n\t\t\t\t\t\n\t\t\t\t\tApply the \"prime\" to bare lips and\n blend in to help hold color to the lips all day.  Use the \"plump\" alone\n or on top of primer or color to achieve a naturally fuller lip.  Ingredients: Ethylhexyl Palmitate, Talc, Ozokerite, Polyisobutene, Synthetic \nFluorphlogopite,  Bis-Diglyceryl polyacyladipate-2, Euphorbia Cerifera \n(Candelilla) Wax, Ceresin, Copernicia Cerifera (Carnauba) Wax, \nMicrocrystalline Wax (Cera Microcristallina), Tricontanyl PVP           \n           \nMay Contain: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI \n77492, CI 77499)                                                        \n          \n\n",
+    "rating": 3.7,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [
+    "Vegan"
+    ],
+    "created_at": "2016-10-01T18:33:36.185Z",
+    "updated_at": "2017-12-23T21:08:38.510Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/395.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/395/original/data?1514063318",
+    "product_colors": []
+    },
+    {
+    "id": 394,
+    "brand": "revlon",
+    "name": "Revlon ColorStay Lip Liner",
+    "price": "11.49",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/afcbc5e035eab277db61144a9a3de035_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/revlon-colorstay-lip-liner_3841.html",
+    "website_link": "https://well.ca",
+    "description": "Perfect any lip look with Colorstay Lipliner, now updated to include full-coverage, sheer, and clear shades. Exclusive Colorstay technology with SoftFlex provides longwearing definition, helps lipcolor last longer and prevents feathering and bleeding. ",
+    "rating": 5,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:35.371Z",
+    "updated_at": "2017-12-23T21:08:38.412Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/394.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/394/original/data?1514063318",
+    "product_colors": [
+    {
+    "hex_value": "#FF3399",
+    "colour_name": "Fuschia "
+    },
+    {
+    "hex_value": "#FFB2E6",
+    "colour_name": "Soft Pink "
+    },
+    {
+    "hex_value": "#71161E",
+    "colour_name": "Plum "
+    },
+    {
+    "hex_value": "#883027",
+    "colour_name": "Nude "
+    },
+    {
+    "hex_value": "#931919",
+    "colour_name": "Wine "
+    },
+    {
+    "hex_value": "#C03C2D",
+    "colour_name": "Sienna "
+    },
+    {
+    "hex_value": "#EC444A",
+    "colour_name": "Pink "
+    }
+    ]
+    },
+    {
+    "id": 393,
+    "brand": "milani",
+    "name": "Milani Color Statement Lipliner",
+    "price": "3.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/386b5089c2fac40c4b01e0a17dc7a1f0_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/milani-color-statement-lipliner_89094.html",
+    "website_link": "https://well.ca",
+    "description": "Inspired by the Milan Runway, two new shades to line and fill-in lips. Features:True instant colour in one stroke applicationLong wearing, easy-glide formulaNo dragSharpens with Milani’s Duo SharpenerNon-feathering formulaApplication: To outline your lips, make an X on the center of your upper lip (lip cleavage). Following the contour of your mouth, start from the outer edges of your lips and work your way towards center of your upper lip (where the x is marked). This will prevent from making one arch higher, pointier or rounder than the other.  Tip: Lipliner helps extend the wear & keeps your lipstick from feathering.   When choosing a lipliner shade, match the lipliner to your lipstick shade or match your lipliner to the shade of your lips which will work with all your lipstick shades.   Create a custom lipcolor by using a contrasting lipliner and lipstick shade.   Before applying your lipliner, pat your lips lightly with your foundation or pressed powder puff, which also helps keep you lipstick from feathering. Ingredients:  Ethylhexyl Palmitate, Synthetic Wax, Zeolite, Stearyl Dimethicone, Bis-Diglyceryl Polyacyladipate-2, Hydrogenated Polydicyclopentadiene-2, Polyethylene, Diisostearyl Malate, Pentaerythrityl Tetra-di-t-Butyl Hydroxyhydrocinnamate, Mica, Titanium Dioxide (CI 77891). +/- May Contain: Iron Oxides (CI 77491, CI 77492, CI 77499), Red 6 (CI 15850), Red 7 (CI 15850), Red 28 (CI 45410), Yellow 5 (CI 19140), Carmine (CI 75470), Blue 1 (CI 42090).",
+    "rating": 4.7,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [],
+    "created_at": "2016-10-01T18:33:34.558Z",
+    "updated_at": "2017-12-23T21:08:38.318Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/393.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/393/original/data?1514063318",
+    "product_colors": [
+    {
+    "hex_value": "#F2ACA2",
+    "colour_name": "All Natural  "
+    },
+    {
+    "hex_value": "#932C49",
+    "colour_name": "Bordeaux "
+    },
+    {
+    "hex_value": "#BE386D",
+    "colour_name": "Fuchsia  "
+    },
+    {
+    "hex_value": "#BD7B85",
+    "colour_name": "Nude  "
+    },
+    {
+    "hex_value": "#EC81A9",
+    "colour_name": "Pretty Pink  "
+    },
+    {
+    "hex_value": "#C56D61",
+    "colour_name": "Spice "
+    },
+    {
+    "hex_value": "#A2051A",
+    "colour_name": "True Red  "
+    }
+    ]
+    },
+    {
+    "id": 392,
+    "brand": "sante",
+    "name": "Sante Lip Duo Contour and Gloss Pencil",
+    "price": "20.49",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d203321e1481ff3e90906b92c960c524_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/sante-lip-duo-contour-and-gloss_51588.html",
+    "website_link": "https://well.ca",
+    "description": "Sante Lip Duo Pencils have two products in one. A lipliner for perfect contours \nand lipgloss for a sexy finish. They come in trendy colors and have a moisturizing texture.  \nVegan and gluten-free. Not tested on animals.Colours:",
+    "rating": 4.4,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [
+    "Natural",
+    "Vegan",
+    "Gluten Free"
+    ],
+    "created_at": "2016-10-01T18:33:33.446Z",
+    "updated_at": "2017-12-23T21:08:38.219Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/392.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/392/original/open-uri20171223-4-jjp4xg?1514063318",
+    "product_colors": [
+    {
+    "hex_value": "#93474f",
+    "colour_name": "No.3 Glamorous Look "
+    }
+    ]
+    },
+    {
+    "id": 254,
+    "brand": "pacifica",
+    "name": "Pacifica Magical Multi-Pencil Prime & Line",
+    "price": "16.0",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4f99def0f8d14a1a498118d7fca9fa89_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/pacifica-magical-multi-pencil-prime_110265.html?cat=477",
+    "website_link": "https://well.ca",
+    "description": "The Pacifica Magical Multi-Pencil Prime & Line Lips, Eyes & Face is a multi-use pencil for priming, lining and covering. Use as a natural eyeliner to brighten, over blemishes as a primer (before applying your concealer), or on your lips as a line and prime to make any color pop! Our Magical Multi-Pencil is waterproof and made with rich mineral color to give you natural results that last.Features:Jojoba Oil - Helps keep skin around the lips and eyes moisturizedShea Butter - Helps protects and moisturizes skinVitamin E - Provides anti-aging benefits in addition to helping reduce the appearance of fine linesVitamin C Antioxidant - natural preservative that helps fight free radicals Ingredients: titanium dioxide CI 77891, hydrogenated simmondsia chinensis seed oil, simmondsia chinensis seed oil, caprylic / capric triglycerides, hydrogenated vegetable oil, mica, butyrospermum parkii butter, canola oil, sclerocarya birrea seed oil, iron oxide CI 77492, euphorbia cerifera cera, glyceryl caprylate, copernicia cerifera cera, iron oxide CI 77491, iron oxide CI 77499, tocopherol, ascorbyl palmitate",
+    "rating": null,
+    "category": null,
+    "product_type": "lip_liner",
+    "tag_list": [
+    "Natural"
+    ],
+    "created_at": "2016-10-01T18:29:32.153Z",
+    "updated_at": "2017-12-23T21:08:37.423Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/254.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/254/original/open-uri20171223-4-tjb63?1514063317",
+    "product_colors": []
+    }
+    ]
